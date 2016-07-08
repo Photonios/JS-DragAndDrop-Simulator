@@ -41,3 +41,8 @@ Inject the code contained in `dndsim.js` and then you can call the following Jav
 	DndSimulator.simulate('#sourceElem', '#targetElem');
 
 You can pass in CSS selectors or a JavaScript `HTMLElement` object.
+
+## License
+This code is licensed under the MIT license. See `LICENSE` for more information or visit:
+
+	https://opensource.org/licenses/MIT
