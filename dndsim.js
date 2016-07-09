@@ -167,7 +167,7 @@ DndSimulatorDataTransfer.prototype.setDragImage = function(img, xOffset, yOffset
     no point in implementing this */
 };
 
-var DndSimulator = {
+DndSimulator = {
     /*!
      * \brief Simulates dragging one element on top of the other.
      *
