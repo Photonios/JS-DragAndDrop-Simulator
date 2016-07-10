@@ -1,4 +1,4 @@
-# js-drag-and-drop-simulator
+# JavaScript Drag & Drop Simulator
 Pure JavaScript implementation HTML5 drag & drop simulator. It is to be used in UI tests using WebDriver.
 
 Most WebDriver implementations by major browser vendors have not yet properly implemented support for automating HTML5 drag and drop. Although it's actively being worked on, it is not yet there.
